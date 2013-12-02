@@ -1,3 +1,4 @@
+http://tucarga-staging.herokuapp.com/
 http://tucarga-staging.herokuapp.com/e1/list/
 http://tucarga-staging.herokuapp.com/e1/list/?estado=nuevo
 http://tucarga-staging.herokuapp.com/e1/list/?estado=enproceso
